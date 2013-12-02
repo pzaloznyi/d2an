@@ -1,0 +1,3 @@
+dota2_hero_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: Dota2HeroBundle:Default:index }

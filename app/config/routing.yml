@@ -1,0 +1,4 @@
+dota2_hero:
+    resource: "@Dota2HeroBundle/Resources/config/routing.yml"
+    prefix:   /
+
